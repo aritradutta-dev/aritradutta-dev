@@ -22,3 +22,14 @@
 ![](https://github-contributor-stats.vercel.app/api?username=aritradutta-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+---
+
+## 🐍 My Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aritradutta-dev/aritradutta-dev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%"/>
+
+</div>
